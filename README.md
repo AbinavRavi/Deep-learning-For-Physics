@@ -1,2 +1,3 @@
-# Deep-learning-For-Physics
-Advanced Deep learning for physics (Fluid Simulations ) in TUM
+# AdvDL4Phy
+Advanced Deep Learning for Physics
+

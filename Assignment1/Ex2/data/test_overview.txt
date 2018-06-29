@@ -1,0 +1,2 @@
+test_0002: 4.41 min, 10000 Epochs, cost 326.5752,  
+test_0002: 0.00 min, 10000 Epochs, cost 0.0000,  , Loaded 0001, 9
