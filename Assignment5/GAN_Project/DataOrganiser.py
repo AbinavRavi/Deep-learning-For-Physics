@@ -26,5 +26,5 @@ if loadNum<200:
 
 velocities = np.reshape( velocities, (len(velocities), 64,64,2) )
 
-with open('./data/velocity.pickle', 'wb') as handle:
+with open('./data/velocity64.pickle', 'wb') as handle:
     pickle.dump(velocities, handle)
